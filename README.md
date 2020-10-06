@@ -32,6 +32,9 @@ Here are the implementations of the well known logic ports, in modules and primi
 
 * <b>Full Adder (2 bits):</b> <a href="Reti_Combinatorie/Full_Adders/Full_Adder_2/fa2.v" alt="implementation_fa1">Implementation</a> | <a href="Reti_Combinatorie/Full_Adders/Full_Adder_2/test_fa2.v" alt="fa1_test">Test</a>
 
+* <b>Multiplexer (1 bit):</b> <a href="Reti_Combinatorie/Multiplexers/Multiplexer_1/mux1.v" alt="implementation_mux1">Implementation 1</a> | <a href="Reti_Combinatorie/Multiplexers/Multiplexer_1/mux1tab.v" alt="implementation_mux1">Implementation 2</a> | <a href="Reti_Combinatorie/Multiplexers/Multiplexer_1/test_mux1.v" alt="fa1_test">Test</a>
+
+* <b>Multiplexer (2 bits):</b> <a href="Reti_Combinatorie/Multiplexers/Multiplexer_2/mux2.v" alt="implementation_fa1">Implementation</a> | <a href="Reti_Combinatorie/Multiplexers/Multiplexer_2/test_mux2.v" alt="mux2_test">Test</a>
 ## To be continued...
 
 ## LICENSE
