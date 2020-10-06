@@ -1,5 +1,5 @@
 # Verilog examples
-This repository will contain all the examples of modules and primitives written in Verilog during the course Digital Design and Computer Architecture (Architettura degli Elaboratori) at University of Pisa
+This repository will contain all the examples of modules and primitives written in Verilog during the course Digital Design and Computer Architecture (Architettura degli Elaboratori) at University of Pisa.
 
 ## Logic ports
 Here are the implementations of the well known logic ports, in modules and primitives:
@@ -31,3 +31,8 @@ Here are the implementations of the well known logic ports, in modules and primi
 * <b>Full Adder (1 bit):</b> <a href="Reti_Combinatorie/Full_Adders/Full_Adder_1/fa1.v" alt="implementation_fa1">Implementation</a> | <a href="Reti_Combinatorie/Full_Adders/Full_Adder_1/test_fa.v" alt="fa1_test">Test</a>
 
 * <b>Full Adder (2 bits):</b> <a href="Reti_Combinatorie/Full_Adders/Full_Adder_2/fa2.v" alt="implementation_fa1">Implementation</a> | <a href="Reti_Combinatorie/Full_Adders/Full_Adder_2/test_fa2.v" alt="fa1_test">Test</a>
+
+## To be continued...
+
+## LICENSE
+All the provided code is completely free; see <a href="LICENSE"> GNU General Public License</a>
