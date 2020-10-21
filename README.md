@@ -53,6 +53,7 @@ Here are the implementations of the well known logic ports, in modules and primi
 * <b>Memoria da N indirizzi da M bit (parametrica):</b> <a href="Reti_Sequenziali/Memorie/memoria.v" alt="implementation_memoria">Implementation</a> | <a href="Reti_Sequenziali/Memorie/test_memoria.v" alt="memoria_test">Test</a>
 ### Excercises
 * <b>Contatore modulo 4 (con rete di Mealy):</b> <a href="Reti_Sequenziali/Registri/registro.v" alt="implementation_registro">Registro</a> | <a href="Reti_Sequenziali/Esercizi/Mealy/exits.v" alt="implementation_exits">Funzione uscite</a> | <a href="Reti_Sequenziali/Esercizi/Mealy/newstate.v" alt="implementation_newstate">Funzione prossimo stato</a> | <a href="Reti_Sequenziali/Esercizi/Mealy/mealy.v" alt="implementation_newstate">Rete di Mealy</a> | <a href="Reti_Sequenziali/Esercizi/Mealy/test_mealy.v" alt="enabled_test">Test</a>
+* <b>Esercizio somma/sottrai:</b> <a href="Reti_Sequenziali/Esercizi/Somma_Sottrazione/modules.v" alt="implementation_ex2">Implementation</a> | <a href="Reti_Sequenziali/Esercizi/Somma_Sottrazione/test_modules.v" alt="ex2_test">Test</a>
 ## To be continued...
 
 ## LICENSE
